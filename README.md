@@ -9,5 +9,7 @@ Read the article to learn more about it.
 ## Getting started
 
 ```
-deno run --allow-net --allow-read server.ts
+> git clone git@github.com:aralroca/chat-with-deno-and-preact.git
+> cd chat-with-deno-and-preact
+> deno run --allow-net --allow-read server.ts
 ```
